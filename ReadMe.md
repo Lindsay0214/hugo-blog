@@ -15,3 +15,4 @@ hugo new posts/xxx.md
 ### Big thanks
 
 https://www.youtube.com/watch?v=hjD9jTi_DQ4
+https://github.com/adityatelange/hugo-PaperMod

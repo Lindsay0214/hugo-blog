@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://stellular-alpaca-4b56cb.netlify.app/"
 languageCode: en_us
 title: Blog
 theme: PaperMod
