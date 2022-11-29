@@ -6,7 +6,8 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: "Hello Stranger"
-    Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
+    Content: 我呢，想開始以文字的方式紀錄生活，無論是工作或是休閒，總覺得從小就深深被文字的力量療癒著，願以相同形式療癒著世界，當然這是理想，但無論理想與否，最重要的還是我得持之以恆的做著相同的事，才會有成真的一天。
+
   socialIcons:
     - name: twitter
       url: "https://twitter.com/Lindsay31807429"
